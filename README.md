@@ -1,5 +1,7 @@
 # chat-app
 
+# Visit master branch to find code.
+
 # Dependencies
 
 1.express - npm install express
