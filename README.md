@@ -2,16 +2,13 @@
 
 #Dependencies
 
-express - npm install express
+1.express - npm install express
 
-bad-words - npm install bad-words
+2.bad-words - npm install bad-words
 
-socket.io - npm install socket.io
+3.socket.io - npm install socket.io
 
-
-steps to run the command
-
-command to run - node src/index.js
+#command to run - node src/index.js
 
 #Go to google. Type localhost:3000
 
